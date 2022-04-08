@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Nathancastor I am. QA implementation Specialist at CastorEDC
+- 👋 Hi, I’m @Nathancastor I am a QA implementation Specialist at CastorEDC
 - 👀 I’m interested in Automation Frameworks for Web UI
 - 🌱 I’m currently learning git, CI/CD pipeline
 - 💞️ I’m looking to collaborate on anything automation, my framework of choice os Codeceptjs and playwright.dev
